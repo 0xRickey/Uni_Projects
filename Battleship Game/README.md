@@ -5,3 +5,5 @@ This is a single player Battleship game where there are two modes:
 This game is run in the Python console and is the first project I created to learn how to code in Java and Python along with common Data Structures and Algorithms.
 
 Anything that is NOT in a folder titled as "Dependencies" is my code. 
+
+There is a lot of sloppy and unoptimised code and this needs to be rectified.
